@@ -1,6 +1,6 @@
 # Animated Sprite Sheet - Hollow Knight
 
-This project demonstrates an animated sprite sheet of Hollow Knight using HTML5 Canvas and JavaScript. Multiple actions such as walking, running, dashing, crawling, transforming, jumping, reading, falling, and blushing are animated on separate canvases.
+This mini project demonstrates an animated sprite sheet of Hollow Knight using HTML5 Canvas and JavaScript. Multiple actions such as walking, running, dashing, crawling, transforming, jumping, reading, falling, and blushing are animated on separate canvases.
 
 **Live Demo:** [View Here](https://ak-2045.github.io/hollow-knight-animated-sprite-sheet)
 
