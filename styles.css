@@ -1,0 +1,55 @@
+body {
+  font-family: 'Trajan Pro Regular', 'Trebuchet MS', sans-serif;
+  background: url('https://i.pinimg.com/originals/46/5f/60/465f608cb3733e1c2639ddd5f65940b2.gif') no-repeat center center fixed;
+  background-size: cover; 
+  color: #fff;
+  text-align: center;
+  margin: 0;
+  padding: 20px;
+}
+
+h1 {
+  font-family: 'Trajan Pro Bold', 'Trebuchet MS', sans-serif;
+  font-weight: bold;
+  margin-bottom: 50px;
+  font-size: 60px;
+  color: white; 
+  -webkit-text-stroke: 2px black;
+}
+
+
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+  justify-items: center;
+}
+
+.canvas-block {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+canvas {
+  border: 2px solid #fff;
+  border-radius: 15px;
+  background: transparent; 
+}
+
+
+
+p {
+  font-family: 'Trajan Pro Regular', 'Trebuchet MS', sans-serif;
+  margin-top: 30px;
+  font-weight: normal;
+  transition: all 0.3s ease; 
+  cursor: default;
+  font-size: 20px;
+
+  background: rgba(0, 0, 0, 0.5); 
+  border-radius: 12px;
+  padding: 7px 35px; 
+  display: inline-block;
+}
+
